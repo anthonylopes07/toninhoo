@@ -1,6 +1,6 @@
 header { 
     display: flex;
-    background-color: rgb(64, 134, 224);
+    background-color: rgb(77, 77, 235);
     color: rgb(255, 255, 255);
     justify-content: space-around;
     align-items: center;
@@ -20,4 +20,8 @@ font-size: 24px;
 
 .interact-imagem{
     width: 10%;
+}
+
+.interact{
+background-image: linear-gradient( rgb(8, 8, 112), rgb(143, 182, 235));
 }
