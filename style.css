@@ -1,6 +1,6 @@
 header { 
     display: flex;
-    background-color: darkblue;
+    background-color: rgb(91, 91, 235);
     color: white;
     justify-content: space-around;
     align-items: center;
@@ -23,5 +23,7 @@ font-size: 24px;
 }
 
 .Interact{
-background-image: linear-gradient(darkblue,deepskyblue);
+background-image: linear-gradient(rgb(91, 91, 235),rgb(175, 229, 247));
+color: white;
+display: flex;
 }
