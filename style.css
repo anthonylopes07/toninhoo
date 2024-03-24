@@ -3,6 +3,10 @@ margin: 0;
 padding: 0;
 }
 
+body{
+    front-family: 'poppins', sans-serif;
+}
+
 
 .cabeçalho { 
     background-color: rgb(91, 91, 235);
