@@ -49,10 +49,19 @@ padding: 24px 0;
     padding: 24px 0;
 }
 
+.clubs{
+    padding: 24px 0;
+}
+
 .clubs-imagem1{
     width: 120px;
 }
 
 .club1-icone{
     width: 24px;
+}
+
+.club1-div{
+    text-align: center;
+    padding: 16px 0;
 }
