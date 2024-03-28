@@ -105,6 +105,8 @@ padding: 24px 0;
 
 .clubs{
     padding: 24px 0;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
 .club1-imagem{
@@ -126,8 +128,7 @@ padding: 24px 0;
 }
 
 .clubs-todos{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+  
 }
 
 .rodapé{
