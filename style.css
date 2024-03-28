@@ -82,7 +82,7 @@ font-size: 24px;
 }
 
 .interact-imagem{
-    width: 10%;
+    width: 50%;
 }
 
 .Interact{
@@ -95,7 +95,8 @@ padding: 24px 0;
 }
 
 .Interact-div-conteudo{
-    width: 15%;
+    width: 30%;
+    text-align: justify;
 }
 
 .Interact-título{
