@@ -139,9 +139,3 @@ text-align: center;
     height: 60px;
     padding: 12px 0;
 }
-
-.rodapé-texto{
-  color: white;
-  display: grid;
-  grid-template-columns: 20% 20% 20%;
-}
