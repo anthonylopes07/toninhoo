@@ -62,7 +62,7 @@ body{
 
 
 .cabeçalho { 
-    background-color: rgb(5, 5, 156);
+    background-color: rgb(10, 10, 180);
     color: black;
     display: flex;
     justify-content: space-around;
@@ -86,7 +86,7 @@ font-size: 24px;
 }
 
 .Interact{
-background-image: linear-gradient(rgb(5, 5, 156),rgb(36, 101, 177));
+background-image: linear-gradient(rgb(10, 10, 180),rgb(75, 150, 235));
 color: black;
 display: flex;
 justify-content: center;
@@ -105,7 +105,6 @@ padding: 24px 0;
 
 .clubs{
     padding: 24px 0;
-  background-image: linear-gradient(rgb(36,101,177),rgb(112, 172, 241));
   }
 
 .club1-imagem{
