@@ -62,7 +62,7 @@ body{
 
 
 .cabeçalho { 
-    background-color: rgb(91, 91, 235);
+    background-color: rgb(5, 5, 156);
     color: black;
     display: flex;
     justify-content: space-around;
@@ -86,7 +86,7 @@ font-size: 24px;
 }
 
 .Interact{
-background-image: linear-gradient(rgb(10, 10, 148),rgb(36, 101, 177));
+background-image: linear-gradient(rgb(5, 5, 156),rgb(36, 101, 177));
 color: black;
 display: flex;
 justify-content: center;
