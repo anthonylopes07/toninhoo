@@ -105,7 +105,7 @@ padding: 24px 0;
 
 .clubs{
     padding: 24px 0;
-}
+    background-image: linear-gradient(rgb(91, 91, 235),rgb(175, 229, 247));}
 
 .club1-imagem{
     width: 290px;
